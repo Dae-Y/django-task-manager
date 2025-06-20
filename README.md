@@ -53,10 +53,25 @@ python manage.py runserver
 
 ## Additional Notes
 
-- This project runs on both Windows and Linux.
-- It's recommended to use a **virtual environment** before installing dependencies.
 - Use the Django admin panel at `/admin/` to add, update, or delete tasks and categories.
 
 ---
 
-> Built with Django for COMP3011 Web App Frameworks.
+## Preview
+
+Below are sample screenshots:
+![1](https://github.com/user-attachments/assets/e28a3f38-7b23-4309-960f-305774e3ad11)
+
+<br><br>
+
+![2](https://github.com/user-attachments/assets/be9bc056-184e-44ef-b3fe-5991179cc4d2)
+
+<br><br>
+
+![3](https://github.com/user-attachments/assets/6271de14-aad1-494f-b86a-2100966d83df)
+
+<br><br>
+
+---
+
+Built with Django for COMP3011 Web App Frameworks.
