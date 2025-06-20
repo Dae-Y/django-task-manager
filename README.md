@@ -59,9 +59,7 @@ python manage.py runserver
 
 ## Preview
 
-Below are sample screenshots:
 ![1](https://github.com/user-attachments/assets/e28a3f38-7b23-4309-960f-305774e3ad11)
-<br>
 
 ![2](https://github.com/user-attachments/assets/be9bc056-184e-44ef-b3fe-5991179cc4d2)
 <br>
