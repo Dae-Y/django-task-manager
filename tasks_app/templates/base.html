@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Task Manager</title>
+</head>
+<body>
+    <header>
+        <h1>Task Management App</h1>
+    </header>
+
+    <nav>
+        <a href="{% url 'task_list' %}">📋 See List of Tasks</a><br>
+        <a href="{% url 'category_list' %}">📂 See List of Categories</a><br>
+    </nav>
+
+    <hr>
+
+    <!-- Page-specific content will go here -->
+
+    {% block content %}
+    {% endblock %}
+</body>
+</html>
+
