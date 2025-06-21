@@ -1,5 +1,7 @@
 # Simple Django task manager
-This is a Django-based Task Management System that allows users to manage tasks and categories through a simple web interface.
+
+This is a Django-based Task Management System that allows users to manage tasks and categories through a simple web interface. <br>
+Built for the **COMP3011 Web Application Frameworks** assignment.
 
 ---
 
@@ -69,4 +71,3 @@ python manage.py runserver
 
 ---
 
-Built with Django for COMP3011 Web App Frameworks.
